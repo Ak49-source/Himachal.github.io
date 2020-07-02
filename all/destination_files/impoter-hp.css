@@ -1,0 +1,26 @@
+select.HpCat {
+    margin-left: 11px;
+    width: 11%;
+    background: #10ad9e;
+    color: #fff;
+    font-size: 17px;
+    height: 36px;
+}
+.UploadFiles input[type="submit"] {
+    background: #0d1c6d;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    width: 128px;
+    font-size: 17px;
+}
+
+
+.errorExcel {
+    font-size: 18px;
+    padding: 11px;
+    background: #F44336;
+    width: 228px;
+    color: #fff;
+    margin-top: 14px;
+}
